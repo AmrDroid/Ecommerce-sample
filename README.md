@@ -30,8 +30,14 @@
 
 
 # App Demo
-
-![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/1.jpg)  |  ![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/2.jpg)
-![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/3.jpg)  |  ![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/4.jpg)
-![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/5.jpg)  |  ![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/6.jpg)
-![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/7.jpg)  
+<p float="left">
+  <img src="https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/1.jpg" width="100" />
+  <img src="https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/2.jpg" width="100" /> 
+  <img src="https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/3.jpg" width="100" />
+  <img src="https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/4.jpg" width="100" />
+</p>
+<p float="left">
+  <img src="https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/5.jpg" width="100" />
+  <img src="https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/6.jpg" width="100" /> 
+  <img src="https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/7.jpg" width="100" />
+</p>
