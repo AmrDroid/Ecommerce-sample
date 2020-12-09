@@ -31,12 +31,13 @@
 
 # App Demo
 
-![](https://github.com/amrdroid/ecommerce-sample/screen/1.jpg)
-![](https://github.com/amrdroid/ecommerce-sample/screen/2.jpg)
-![](https://github.com/amrdroid/ecommerce-sample/screen/3.jpg)
-![](https://github.com/amrdroid/ecommerce-sample/screen/4.jpg)
-![](https://github.com/amrdroid/ecommerce-sample/screen/5.jpg)
-![](https://github.com/amrdroid/ecommerce-sample/screen/6.jpg)
-![](https://github.com/amrdroid/ecommerce-sample/screen/7.jpg)
+![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/1.jpg)
+![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/2.jpg)
+![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/3.jpg)
+![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/4.jpg)
+![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/5.jpg)
+![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/6.jpg)
+![](https://github.com/AmrDroid/Ecommerce-sample/blob/master/screen/7.jpg)
+
 
 
