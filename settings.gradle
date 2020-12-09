@@ -1,0 +1,3 @@
+include ':queryHighlighter'
+include ':app'
+rootProject.name = "Ecommerce-sample"

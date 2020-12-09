@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">E-Commerce ٍSample</string>
+    <string name="no_results">No results \nFetching data........😓</string>
+    <string name="seller_number_developer">+201112615960</string>
+    <string name="seller_whatsap_link">https://wa.me/201112615960</string>
+    <string name="tel">tel</string>
+    <string name="check_internet">Please check your internet connection. \n    swipe or click retry!!!</string>
+    <string name="outofstock">outofstock</string>
+    <string name="error_message"> For %1$s</string>
+    <string name="search_for_product">search for product</string>
+    <string name="company_logo">company logo</string>
+    <string name="no_review">(No reviews yet)</string>
+    <string name="are_you_sure_you_want_to_exit_the_app">Are you sure you want to exit the App?</string>
+    <string name="no">NO</string>
+    <string name="welcome">Welcome To Our App...</string>
+
+    <!--the price format -->
+    <string name="zero_after_decimal">.00</string>
+    <string name="comma">,</string>
+    <string name="empty" />
+    <string name="pattern">#,###.00</string>
+    <string name="dollar_sign">$%1$s</string>
+    <string name="product_details">Product Details</string>
+    <string name="availability">See if it\'s available</string>
+
+
+
+
+</resources>
