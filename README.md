@@ -4,7 +4,7 @@
 
 * The project consume Woocommerce Restful API of any website develop with wordpress using woocommerce plugin.
 
-* The concept of the project is to based on paging library for both remote & local datasource, and you will be able to perform search action on product list.
+* The concept of this project based on paging library for both remote & local datasource, and you will be able to perform search action on product list.
 
 
 # Libraries
